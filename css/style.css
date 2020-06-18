@@ -167,7 +167,7 @@ ul,ol {
 
 
 .logo-search-wrapper {
-    margin-top: -25rem;
+    margin-top: -35vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -184,12 +184,14 @@ img {
 
 
 .logo-search-wrapper .logo {
-    max-width: 75%;
+    width: 75%;
+    max-width: 30rem;
 }
 
 .logo-search-wrapper .searchbar {
     margin-top: 2.5rem;
     width: 100%;
+    max-width: 72rem;
 }
 .logo-search-wrapper input[type='text'] {
     display: inline-block;
