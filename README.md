@@ -3,7 +3,7 @@
 
 <hr/>
 <div style="text-align: center;">
-<a style="background-color: #ccc; padding: 1rem; color: white; border: 1px solid #aaa; border-radius: .3rem" href="sarukei.github.io/google-homepage">View this page</a> <em>via Github Pages</em>
+<a style="background-color: #ccc; padding: 1rem; color: white; border: 1px solid #aaa; border-radius: .3rem" href="https://sarukei.github.io/google-homepage">View this page</a> <em>via Github Pages</em>
 
 </div>
 <hr/>
